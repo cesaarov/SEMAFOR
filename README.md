@@ -1,4 +1,3 @@
 # SEMAFOR
 arduino projekat
-gbjHSAFIAA
-kaluu
+Luka 32132131
